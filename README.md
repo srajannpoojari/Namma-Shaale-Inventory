@@ -59,19 +59,19 @@ app/
 ## Screenshots
 
 ### Dashboard Screen
-(Add dashboard screenshot here)
+![Dashboard](screenshots/dashboard.jpg)
 
 ### Asset Registration
-(Add asset registration screenshot here)
+![Asset Registration](screenshots/asset-registration.jpg)
 
 ### Inventory List
-(Add inventory list screenshot here)
+![Inventory List](screenshots/inventory-list.jpg)
 
 ### Search and Filter
-(Add search and filter screenshot here)
+![Search and Filter](screenshots/search-filter.jpg)
 
 ### Report Generation
-(Add report generation screenshot here)
+![Report Generation](screenshots/report-generation.jpg)
 
 ---
 
